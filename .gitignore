@@ -1,0 +1,4 @@
+*.o
+ossim
+tests/test_sim
+INTERVIEW_NOTES.md
